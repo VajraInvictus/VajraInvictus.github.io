@@ -16,11 +16,11 @@ h2 {
   font-family: monospace;
 }
 h3 {
-    color: #B1B1EF;
-    text-align: center;
-    font-size: 20px;
-    font-family: monospace;
-}
+      color: #bd99ff;
+      text-align: center;
+      font-size: 20px;
+      font-family: monospace;
+  }
 
 p {
   color: rgb(100, 149, 237);
