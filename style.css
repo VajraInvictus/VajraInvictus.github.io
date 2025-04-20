@@ -21,6 +21,12 @@ h3 {
       font-size: 20px;
       font-family: monospace;
   }
+h6 {
+    color: #800000;
+    text-align: center;
+    font-size: 10px;
+    font-family: monospace;
+}
 
 p {
   color: rgb(100, 149, 237);
